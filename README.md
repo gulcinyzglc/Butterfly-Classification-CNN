@@ -49,17 +49,13 @@ Modelin genel yapısı şu şekildedir:
 
 ---
 
-Model test veri seti üzerinde güçlü bir performans göstermiştir ve genel olarak iyi genelleme kabiliyeti sunmaktadır.  
-
---
-
+-Model test veri seti üzerinde güçlü bir performans göstermiştir ve genel olarak iyi genelleme kabiliyeti sunmaktadır.  
 - Transfer learning yöntemleri ile performans artırılabilir.  
 - Hiperparametre optimizasyonu için Bayesian Optimization gibi yöntemler denenebilir.  
 
 ---
 
 ## 🔗 Kaggle Proje Linki
-Projenin Kaggle sayfasına ulaşmak için: [Butterfly Multiclass Classification] https://www.kaggle.com/code/gulcinyzglc/butterfly-image-classification-with-cnn
+Projenin Kaggle sayfasına ulaşmak için: [Butterfly Classification (CNN)] https://www.kaggle.com/code/gulcinyzglc/butterfly-image-classification-with-cnn
 
-Webinar kaydı eklenecek veya paylaşılacak.
 
