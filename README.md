@@ -1,4 +1,4 @@
-# 🦋 Butterfly Multiclass Image Classification
+# 🦋 Butterfly Image Classification (CNN)
 
 ## 📑 İçindekiler
 - [Proje Özeti](#proje-özeti)
